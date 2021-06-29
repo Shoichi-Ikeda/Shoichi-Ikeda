@@ -20,3 +20,18 @@
 [![](https://raw.githubusercontent.com/Shoichi-Ikeda/Shoichi-Ikeda/master/profile-summary-card-output/dracula/0-profile-details.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
 [![](https://raw.githubusercontent.com/Shoichi-Ikeda/Shoichi-Ikeda/master/profile-summary-card-output/dracula/1-repos-per-language.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
 [![](https://raw.githubusercontent.com/Shoichi-Ikeda/Shoichi-Ikeda/master/profile-summary-card-output/dracula/2-most-commit-language.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
+
+#### Development Environment
+
+- Favorite Languages: Rust
+- Editor: Neovim
+- Shell: zsh
+- Terminal: Alacritty, tmux
+- OS: ArchLinux(i3-gaps/sway)
+- PC: Thinkpad X1 Carbon
+- Keyboard: HHKB hybrid
+- Mouse: SlimBlade
+- Smartphone: Pixel4a
+
+
+![Chart not found](https://raw.githubusercontent.com/Shoichi-Ikeda/Shoichi-Ikeda/main/charts/bar_graph.png) 

@@ -13,6 +13,5 @@
 
 <p align="left"> 
   <a href="https://github-readme-stats.vercel.app/api/top-langs/?username=Shoichi-Ikeda&layout=compact">
-    <img src="https://github.com/Shoichi-Ikeda/github-readme-stats" />
   </a>
 </p>

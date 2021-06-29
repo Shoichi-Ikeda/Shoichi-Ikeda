@@ -6,5 +6,5 @@
 <a href="https://github.com/anuraghazra/github-readme-stats">
   <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Shoichi-Ikeda&theme=dark" />
 </a>
-(https://github-readme-stats.vercel.app/api/pin/?username=Shoichi-Ikeda&repo=github-readme-stats)](https://github.com/anuraghazra/github-readme-stats)
+![GitHub Extra Pins](https://github-readme-stats.vercel.app/api/pin/?username=Shoichi-Ikeda&repo=homebridge-switchbot-for-mac)
 

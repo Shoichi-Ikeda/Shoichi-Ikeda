@@ -18,4 +18,4 @@
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=Shoichi-Ikeda&theme=gruvbox)](https://github.com/Shoichi-Ikeda/github-profile-trophy)
 
-![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Shoichi-Ikeda&theme=github_dark)
+![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Shoichi-Ikeda&theme=monokai)
